@@ -16,7 +16,7 @@ function myFunction() {
 myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
-
+//since internal was defined inside of the first function, it has the ability to be accessed by all functions nested in the function
 
 
 
